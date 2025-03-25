@@ -1,4 +1,4 @@
-![head](https://github.com/main)
+![head](https://github.com/Akshith555/Akshith555/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Akshith Goud Kasipuram</h1>
 <h3 align="center">Graduate Illinois Tech student & Data Analyst Loading..</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/blob/main/Bitmoji.png"> 
