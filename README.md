@@ -1,7 +1,7 @@
 ![head](https://github.com/Akshith555/Akshith555/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Akshith Goud Kasipuram</h1>
 <h3 align="center">Graduate Illinois Tech student & Data Analyst Loading..</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Akshith555/Akshith555/blob/main/2.png"> 
+<img align="right" alt="coding" width="400" src="https://github.com/Akshith555/Akshith555/blob/main/1.png"> 
 
 - 🌱 I’m currently learning **Python,PowerBI,Data Analysis**
 
